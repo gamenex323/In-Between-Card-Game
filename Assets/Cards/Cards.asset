@@ -1,0 +1,223 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c5b1f6848141c4a82fcb43d42e75eb, type: 3}
+  m_Name: Cards
+  m_EditorClassIdentifier: 
+  m_Cardsdata:
+  - id: 0
+    Type: 1
+    Value: 14
+    cardFace: {fileID: -5937033856086312670, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 1
+    Type: 2
+    Value: 14
+    cardFace: {fileID: 4612179601192966255, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 2
+    Type: 3
+    Value: 14
+    cardFace: {fileID: -1313787141953117951, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 3
+    Type: 4
+    Value: 14
+    cardFace: {fileID: 763580589898961171, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 4
+    Type: 1
+    Value: 2
+    cardFace: {fileID: -5829339441095506355, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 5
+    Type: 2
+    Value: 2
+    cardFace: {fileID: -9010180143700828791, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 6
+    Type: 3
+    Value: 2
+    cardFace: {fileID: 8266940486667813511, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 7
+    Type: 1
+    Value: 2
+    cardFace: {fileID: 3832154656421877918, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 8
+    Type: 1
+    Value: 3
+    cardFace: {fileID: -1765425057968815373, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 9
+    Type: 2
+    Value: 3
+    cardFace: {fileID: -4436032137802326063, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 10
+    Type: 3
+    Value: 3
+    cardFace: {fileID: -7140140711389482156, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 11
+    Type: 4
+    Value: 3
+    cardFace: {fileID: -4935457877402103802, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 12
+    Type: 1
+    Value: 4
+    cardFace: {fileID: 8189510076246447048, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 13
+    Type: 2
+    Value: 4
+    cardFace: {fileID: -1842931150949637066, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 14
+    Type: 3
+    Value: 4
+    cardFace: {fileID: -4918161284562515087, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 15
+    Type: 4
+    Value: 4
+    cardFace: {fileID: -903575915503707149, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 16
+    Type: 1
+    Value: 5
+    cardFace: {fileID: 6554606125862915288, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 17
+    Type: 2
+    Value: 5
+    cardFace: {fileID: 2231453869609038919, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 18
+    Type: 3
+    Value: 5
+    cardFace: {fileID: 8099414885038995748, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 19
+    Type: 4
+    Value: 5
+    cardFace: {fileID: -4126887905391382737, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 20
+    Type: 1
+    Value: 6
+    cardFace: {fileID: 5596294204879662915, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 21
+    Type: 2
+    Value: 6
+    cardFace: {fileID: 3778445233705880928, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 22
+    Type: 3
+    Value: 6
+    cardFace: {fileID: -7739104132222810089, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 23
+    Type: 4
+    Value: 6
+    cardFace: {fileID: -160624115552635738, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 24
+    Type: 1
+    Value: 7
+    cardFace: {fileID: -9150598068091461885, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 25
+    Type: 2
+    Value: 7
+    cardFace: {fileID: -3997882704806128030, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 26
+    Type: 3
+    Value: 7
+    cardFace: {fileID: -6602064974543665419, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 27
+    Type: 4
+    Value: 7
+    cardFace: {fileID: 7573366100927417605, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 28
+    Type: 1
+    Value: 8
+    cardFace: {fileID: -6593237201273673260, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 29
+    Type: 2
+    Value: 8
+    cardFace: {fileID: -8253848877337857051, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 30
+    Type: 3
+    Value: 8
+    cardFace: {fileID: -4074191107141525095, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 31
+    Type: 4
+    Value: 8
+    cardFace: {fileID: -27160099051027534, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 32
+    Type: 1
+    Value: 9
+    cardFace: {fileID: -875328881673582874, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 33
+    Type: 2
+    Value: 9
+    cardFace: {fileID: -1562433956488849609, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 34
+    Type: 3
+    Value: 9
+    cardFace: {fileID: -7405347508375424539, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 35
+    Type: 4
+    Value: 9
+    cardFace: {fileID: -4480337267563539038, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 36
+    Type: 1
+    Value: 10
+    cardFace: {fileID: -7832837758836250204, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 37
+    Type: 2
+    Value: 10
+    cardFace: {fileID: -8829155961802345703, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 38
+    Type: 3
+    Value: 10
+    cardFace: {fileID: 625139745923655710, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 39
+    Type: 4
+    Value: 10
+    cardFace: {fileID: -3032300007748356958, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 40
+    Type: 1
+    Value: 11
+    cardFace: {fileID: -8855870648088837821, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 41
+    Type: 2
+    Value: 11
+    cardFace: {fileID: -6178254584192931380, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 42
+    Type: 3
+    Value: 11
+    cardFace: {fileID: -8759763348557688546, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 43
+    Type: 4
+    Value: 11
+    cardFace: {fileID: 1699494312944832460, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 44
+    Type: 1
+    Value: 12
+    cardFace: {fileID: 7140670712980926052, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 45
+    Type: 2
+    Value: 12
+    cardFace: {fileID: -2807797338256334442, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 46
+    Type: 3
+    Value: 12
+    cardFace: {fileID: -9152675768881731825, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 47
+    Type: 4
+    Value: 12
+    cardFace: {fileID: 1184419576110534078, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 48
+    Type: 1
+    Value: 13
+    cardFace: {fileID: -6915729863101883278, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 49
+    Type: 2
+    Value: 13
+    cardFace: {fileID: -4605797163598119477, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 50
+    Type: 3
+    Value: 13
+    cardFace: {fileID: -8293914706396349620, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
+  - id: 51
+    Type: 4
+    Value: 13
+    cardFace: {fileID: -679434602914104243, guid: 189d146d279732f4eba43b2b9acf8deb, type: 3}
